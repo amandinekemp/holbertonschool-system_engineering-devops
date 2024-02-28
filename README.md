@@ -10,18 +10,34 @@
 
 ## ➤ Menu:
 
-* [➤ Description]()
-* [➤ Resources]()
-* [➤ General]()
-* [➤ Requirements]()
-* [➤ Tasks]()
-* [➤ Author]()
+* [➤ Description](https://github.com/amandinekemp/holbertonschool-system_engineering-devops#-description)
+* [➤ Concepts](https://github.com/amandinekemp/holbertonschool-system_engineering-devops#-concepts)
+* [➤ Resources](https://github.com/amandinekemp/holbertonschool-system_engineering-devops#-resources)
+* [➤ Requirements](https://github.com/amandinekemp/holbertonschool-system_engineering-devops#-requirements)
+* [➤ Tasks](https://github.com/amandinekemp/holbertonschool-system_engineering-devops#-tasks)
+* [➤ Author](https://github.com/amandinekemp/holbertonschool-system_engineering-devops#-author)
 
 ----------
 
 ## ➤ Description:
 
+Designing a web infrastructure involves planning and organizing the necessary components to host and provide web services reliably and securely. Here's a description of the key elements in designing a web infrastructure:
 
+1. **Servers:** Servers form the core of the web infrastructure. They host the applications, databases, and files needed for the website to function. Servers can be physical or virtual and are configured to meet the specific needs of the site.
+
+2. **Web Server:** The web server is responsible for receiving requests from users and returning the appropriate web pages. It can be servers like Apache, Nginx, or other web servers, depending on organizational preferences and requirements.
+
+3. **Application Server:** The application server hosts and executes the web application code. It can be servers running programming languages such as PHP, Python, Java, etc. The application server communicates with the web server to generate dynamic responses to send to users.
+
+4. **Database:** The database stores the information needed for the website, such as users, products, blog articles, etc. It is essential for dynamic websites that require efficient data storage and retrieval.
+
+5. **Network:** The network connects all the components of the web infrastructure and enables communication between them. It includes cables, switches, routers, and other network equipment necessary for connectivity and data transmission.
+
+6. **Security:** Security is a critical consideration in designing the web infrastructure. This includes protection against DDoS attacks, SQL injection attacks, security vulnerabilities, etc. Firewalls, intrusion detection systems (IDS), SSL/TLS certificates, and other security measures are often implemented to protect the website and its data.
+
+7. **Scalability:** The web infrastructure must be designed to be scalable to handle increased traffic or demands. This may involve techniques such as caching, horizontal scaling (adding servers), or using cloud services to increase capacity as needed.
+
+In summary, designing a web infrastructure involves selecting and configuring the necessary components to host and provide web services efficiently, securely, and scalably.
 
 ----------
 
