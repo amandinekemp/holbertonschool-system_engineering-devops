@@ -1,5 +1,5 @@
 <p align="center">
-    <img [Web infrastructure design] src="https://www.networksolutions.com/blog/protect/cybersecurity/it-s-time-to-assess-your-website-s-technology-infrastructure/_jcr_content/root/section/image.coreimg.jpeg/1615520037476/technology-infrastructure.jpeg">
+    <img [Web infrastructure design] src="https://itinfrastructure.report/images/Resources/9b490421-bb43-400d-b1b4-98d831cf82f7_orchestration-of-infrastructure-in-a-hybrid-environment.jpg">
 </p>
 
 ----------
