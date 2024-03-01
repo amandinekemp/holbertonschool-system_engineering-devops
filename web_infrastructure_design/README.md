@@ -1,5 +1,5 @@
 <p align="center">
-    <img [0. Simple web stack] src="">
+    <img [0. Simple web stack] src="https://github.com/amandinekemp/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/0-simple_web_stack.png">
 </p>
 
 ----------
@@ -56,9 +56,9 @@
 - **Difficulty Scaling:** If the website experiences increased traffic, the single server may struggle to handle the load, leading to slowdowns or website downtime.
 
 ----------
-
+layout
 <p align="center">
-    <img [1. Distributed web infrastructure] src="">
+    <img [1. Distributed web infrastructure] src="https://github.com/amandinekemp/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/1-distributed_web_infrastructure.png">
 </p>
 
 ----------
@@ -98,7 +98,7 @@
 ----------
 
 <p align="center">
-    <img [2. Secured and monitored web infrastructure] src="">
+    <img [2. Secured and monitored web infrastructure] src="https://github.com/amandinekemp/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/2-secured_and_monitored_web_infrastructure.png">
 </p>
 
 ----------
@@ -138,7 +138,7 @@
 ----------
 
 <p align="center">
-    <img [3. Scale up] src="">
+    <img [3. Scale up] src="https://github.com/amandinekemp/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/3-scale_up.png">
 </p>
 
 ----------
