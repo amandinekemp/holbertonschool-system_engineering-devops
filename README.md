@@ -21,23 +21,35 @@
 
 ## ➤ Description:
 
-Designing a web infrastructure involves planning and organizing the necessary components to host and provide web services reliably and securely. Here's a description of the key elements in designing a web infrastructure:
+Summary of basic network concepts and web infrastructure :
+**Basic network concepts:**
+1. **Network:** A collection of devices connected to share resources and communicate.
+2. **Internet:** Global network linking millions of networks using TCP/IP.
+3. **Protocols:** Rules governing the transmission of data over a network (e.g. TCP/IP, HTTP).
+4. **IP address:** Unique identifier assigned to each device on a network (IPv4, IPv6).
+5. **DNS:** System that translates domain names into IP addresses.
+6. **Router:** Selection of the best path for data transmission.
+7. **Switching:** Transfer of data packets between devices on the same network.
+8. **Firewall:** Network security device controlling incoming/outgoing traffic.
+9. **OSI model:** Seven-layer reference model for network communications.
+10. **LAN/WAN:** Local area networks (small area) vs. wide area networks (large area).
+11. **IP addresses:** IPv4 and IPv6.
+12. **TCP/UDP:** Data transfer protocols over IP.
+13. **Ports:** Numbers identifying applications/services on a device.
+14. **SSH/HTTP/HTTPS port numbers:** SSH (22), HTTP (80), HTTPS (443).
+15. **ICMP:** Protocol for checking connectivity of network devices.
 
-1. **Servers:** Servers form the core of the web infrastructure. They host the applications, databases, and files needed for the website to function. Servers can be physical or virtual and are configured to meet the specific needs of the site.
-
-2. **Web Server:** The web server is responsible for receiving requests from users and returning the appropriate web pages. It can be servers like Apache, Nginx, or other web servers, depending on organizational preferences and requirements.
-
-3. **Application Server:** The application server hosts and executes the web application code. It can be servers running programming languages such as PHP, Python, Java, etc. The application server communicates with the web server to generate dynamic responses to send to users.
-
-4. **Database:** The database stores the information needed for the website, such as users, products, blog articles, etc. It is essential for dynamic websites that require efficient data storage and retrieval.
-
-5. **Network:** The network connects all the components of the web infrastructure and enables communication between them. It includes cables, switches, routers, and other network equipment necessary for connectivity and data transmission.
-
-6. **Security:** Security is a critical consideration in designing the web infrastructure. This includes protection against DDoS attacks, SQL injection attacks, security vulnerabilities, etc. Firewalls, intrusion detection systems (IDS), SSL/TLS certificates, and other security measures are often implemented to protect the website and its data.
-
-7. **Scalability:** The web infrastructure must be designed to be scalable to handle increased traffic or demands. This may involve techniques such as caching, horizontal scaling (adding servers), or using cloud services to increase capacity as needed.
-
-In summary, designing a web infrastructure involves selecting and configuring the necessary components to host and provide web services efficiently, securely, and scalably.
+**Web infrastructure:**
+1. **Application Server:** Executes application code, processes client requests.
+2. **Database Server:** Stores and manages application data.
+3. **Web Server:** Receives HTTP requests from clients and redirects them to the appropriate application.
+4. **DNS/Load Balancer Server:** Manages network traffic routing, ensuring balanced load distribution.
+5. **Firewall:** Controls and filters incoming and outgoing network traffic, ensures system security.
+**System redundancy:** Implementation of additional components to ensure continued availability of services in the event of failure.
+**Acronyms:**
+- LAMP :** Linux, Apache, MySQL, PHP.
+- SPOF :** Single Point of Failure.
+- QPS:** Requests Per Second.
 
 ----------
 
