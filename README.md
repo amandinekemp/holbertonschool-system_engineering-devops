@@ -47,9 +47,9 @@ Summary of basic network concepts and web infrastructure :
 5. **Firewall:** Controls and filters incoming and outgoing network traffic, ensures system security.
 **System redundancy:** Implementation of additional components to ensure continued availability of services in the event of failure.
 **Acronyms:**
-- LAMP :** Linux, Apache, MySQL, PHP.
-- SPOF :** Single Point of Failure.
-- QPS:** Requests Per Second.
+- **LAMP :** Linux, Apache, MySQL, PHP.
+- **SPOF :** Single Point of Failure.
+- **QPS:** Requests Per Second.
 
 ----------
 
